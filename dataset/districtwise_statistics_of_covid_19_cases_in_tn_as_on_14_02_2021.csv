@@ -1,0 +1,42 @@
+S.No,District,Total Positive Cases as on 14.02.2021,Discharged Cases as on 14.02.2021,Active Cases as on 14.02.2021,Death Cases as on 14.02.2021
+1,Ariyalur,4710,4653,8,49
+2,Chengalpattu,52095,51019,303,773
+3,Chennai,233334,227652,1559,4123
+4,Coimbatore,55152,54020,454,678
+5,Cuddalore,25067,24687,93,287
+6,Dharmapuri,6626,6547,24,55
+7,Dindigul,11360,11105,56,199
+8,Erode,14613,14325,138,150
+9,Kallakurichi,10899,10778,13,108
+10,Kancheepuram,29379,28854,83,442
+11,Kanniyakumari,16963,16633,70,260
+12,Karur,5465,5377,38,50
+13,Krishnagiri,8113,7975,21,117
+14,Madurai,21157,20608,89,460
+15,Nagapattinam,8544,8351,60,133
+16,Namakkal,11733,11579,43,111
+17,Nilgiris,8276,8187,41,48
+18,Perambalur,2278,2250,7,21
+19,Pudukkottai,11614,11430,28,156
+20,Ramanathapuram,6433,6286,10,137
+21,Ranipet,16187,15960,38,189
+22,Salem,32578,32040,72,466
+23,Sivaganga,6710,6551,33,126
+24,Tenkasi,8491,8284,48,159
+25,Thanjavur,17900,17533,118,249
+26,Theni,17131,16890,34,207
+27,Thoothukudi,16315,16154,19,142
+28,Tiruchirappalli,14866,14561,124,181
+29,Tirunelveli,15667,15391,62,214
+30,Tirupathur,7612,7469,17,126
+31,Tiruppur,18140,17798,120,222
+32,Tiruvallur,43869,42962,214,693
+33,Tiruvannamalai,19426,19107,35,284
+34,Tiruvarur,11276,11119,47,110
+35,Vellore,20878,20446,83,349
+36,Villupuram,15230,15092,26,112
+37,Virudhunagar,16619,16364,24,231
+38,Airport Surveillance (International),946,939,6,1
+39,Airport Surveillance (Domestic),1040,1037,2,1
+40,Railway Surveillance,428,428,0,0
+Total,Grand Total,845120,828441,4260,12419
